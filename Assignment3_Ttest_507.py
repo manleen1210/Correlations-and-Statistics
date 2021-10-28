@@ -14,7 +14,7 @@ Looking at a small sample
 """
 diabetes_small = diabetes.sample(100)
 
-"""Getting a list of all variabke names from our small sample"""  
+"""Getting a list of all variable names from our small sample"""  
 list(diabetes_small)
 
 """
